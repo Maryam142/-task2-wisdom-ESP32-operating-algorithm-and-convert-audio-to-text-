@@ -1,0 +1,10 @@
+wisdom ESP32 operating algorithm
+1. install Arduino IDE.
+
+2. in new file write a code such as blink from (File -> Examples -> Bacics-> Blink).
+
+3. call ESP32 library https://dl.espressif.com/dl/package_esp32_index.jso from (File -> Preferences) and select the  board from (Tools-> Board"Arduino Uno"-> Board Managers-> WEMOS D1 MINI ESP32-> install).
+
+4. select the port from (Tools-> port-> COM3).
+
+5. finaly verify and run the code.    
